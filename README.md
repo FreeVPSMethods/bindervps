@@ -1,5 +1,7 @@
 # BinderVPS
 A free VPS provider, powered by Binder.
+# Help! My terminal keeps getting written the commands you run.
+Run bash fix-terminal.sh in the terminal.
 # How to save data permamently?
 You can't.
 # does it need a account?
